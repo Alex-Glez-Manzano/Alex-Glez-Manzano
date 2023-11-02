@@ -1,5 +1,6 @@
 ### Hi there 👋
 -Actualmente estoy trabajando en Grupo ATIC
+<br>
 -Estoy aprendiendo desarrollo con SAP implementado con C#
 -Estoy aprendiendo REACT
 -📫Puedes Contactarme por:
