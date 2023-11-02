@@ -1,5 +1,17 @@
 ### Hi there 👋
-
+-Actualmente estoy trabajando en Grupo ATIC
+-Estoy aprendiendo desarrollo con SAP implementado con C#
+-Estoy aprendiendo REACT
+-📫Puedes Contactarme por:
+  Correo:aglezman@outlook.com
+  Telefono: 5541388372
+-Me dicen Alex
+-Manejo de conocimientos
+  C#, Java, NET core, c y c++
+-Html, CSS y JS
+-Bases de datos
+  MySQL y SQL
+  Actualmente aprendiendo a usar Mongo DB
 <!--
 **Alex-Glez-Manzano/Alex-Glez-Manzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
